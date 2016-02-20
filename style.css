@@ -1,0 +1,7 @@
+#my-game-div > div{
+	width: 100px;
+}
+#my-game-div > div > div{
+	float: left;
+	width: 25%;	
+}a
